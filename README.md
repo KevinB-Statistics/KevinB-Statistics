@@ -22,7 +22,7 @@ I'm a Statistical Science graduate student and I'm passionate in statistical mod
 
 ## ✨ GitHub Stats
 
-[![KevinB-Statistic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinB-Statistics&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+[![KevinB-Statistic's GitHub stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinB-Statistics&show_icons=true&theme=radical)
 
 <!--## 🚀 LeetCode ([profile](https://leetcode.com/Kev101))
 ![KevinB-Statistics's Leetcode Stats](https://leetcard.jacoblin.cool/Kev101?theme=light&font=Noto%20Sans%20Georgian&ext=activity)-->
