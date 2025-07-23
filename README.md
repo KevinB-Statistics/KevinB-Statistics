@@ -8,9 +8,28 @@ I'm a Statistical Science graduate student and I'm passionate in statistical mod
 - AI/ML Modeling: CNN
 - Statistical Learning: Expectation Maximiation, Matrix Decomposition, Importance Sampling, Param/NonParam Bootstrap, MCMC, Rejection Sampling, Monte Carlo Integration, Meta-Heuristics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinB-Statistics&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <!-- WakaTime stats: 200px tall, centered -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="300"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinB_Statistics"
+      alt="Kevin’s WakaTime stats"
+    />
+  </a>
+  <!-- Top Langs stats: same height, same align -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="300"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinB-Statistics&langs_count=8"
+      alt="Kevin’s Top Languages"
+    />
+  </a>
+</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinB_Statistics)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💻 Research
 - Modeling scientific theory and reproducibility through simulations
 
@@ -24,8 +43,18 @@ I'm a Statistical Science graduate student and I'm passionate in statistical mod
 ![](https://komarev.com/ghpvc/?username=KevinB-Statistics&color=green)
 
 ## ✨ GitHub Stats
+<p align="center">
+  <!-- GitHub stats card, also 200px tall -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=KevinB-Statistics&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+      alt="Kevin’s GitHub stats"
+      height="300"
+      align="center"
+    />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinB-Statistics&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--## 🚀 LeetCode ([profile](https://leetcode.com/Kev101))
 ![KevinB-Statistics's Leetcode Stats](https://leetcard.jacoblin.cool/Kev101?theme=light&font=Noto%20Sans%20Georgian&ext=activity)-->
